@@ -1,0 +1,32 @@
+<html>
+<head>
+<title> 
+this is my first web page
+</title>
+</head>
+<body>
+<table border  = 2 width =500  cellspacing  =5>
+<tr>
+<td> first cell of 1st row </td>
+<td> second cell of 1st row </td>
+<td> third  cell of 1st row </td>
+</tr>
+<tr>
+<td> first cell of 2nd  row </td>
+<td> second cell 2nd row containig a table
+<table border =2 width = 250  cellspcing =2>
+<tr>
+<td> first cell of inner table </td>
+<td> second cell of inner table </td>
+</tr>
+<td> third cell of inner table </td>
+<td> fourth cell of inner table</td>
+</tr>
+</table>
+</td>
+<td> third cell of 2nd row </td>
+</tr>
+</table>
+</body>
+</html>
+
